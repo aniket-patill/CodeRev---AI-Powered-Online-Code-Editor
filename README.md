@@ -2,7 +2,7 @@
 
 ## Overview
 
-SynapseCode is a lightweight, AI-assisted code editor designed to empower developers with real-time multi-user collaboration and advanced AI-driven features. Built with a secure and intuitive workspace, SynapseCode not only supports live code editing and file management but also enhances productivity with AI-powered linting, auto-completion, documentation generation, and syntax correction.
+CodeRev is a lightweight, AI-assisted code editor designed to empower developers with real-time multi-user collaboration and advanced AI-driven features. Built with a secure and intuitive workspace, CodeRev not only supports live code editing and file management but also enhances productivity with AI-powered linting, auto-completion, documentation generation, and syntax correction.
 
 ## Problem Statement
 
@@ -12,7 +12,7 @@ Modern software development demands rapid collaboration and high-quality code. D
 - **Ensure organized workspace management:** Support both private and public workspaces with clear file/folder hierarchies.
 - **Automatically synchronize code, files, and user interactions:** Eliminate manual saving and reduce merge conflicts.
 
-SynapseCode meets these needs by integrating advanced AI capabilities with robust real-time collaboration, empowering teams to write, review, and maintain high-quality code efficiently.
+CodeRev meets these needs by integrating advanced AI capabilities with robust real-time collaboration, empowering teams to write, review, and maintain high-quality code efficiently.
 
 ## Solution Architecture
 
@@ -92,5 +92,4 @@ SynapseCode meets these needs by integrating advanced AI capabilities with robus
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Abhi13-02/Haxplore.git
-   cd Haxplore
+   git clone https://github.com/Abhi13-02/Haxplore.git](https://github.com/aniket-patill/CodeRev---AI-Powered-Online-Code-Editor
